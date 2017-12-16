@@ -1,6 +1,9 @@
 # Mask RCNN
 Mask RCNN in TensorFlow
 
+我自己添加的说明，在note-zcm.md中
+
+
 This repo attempts to reproduce this amazing work by Kaiming He et al. : 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 
