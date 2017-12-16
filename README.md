@@ -3,6 +3,8 @@ Mask RCNN in TensorFlow
 
 我自己添加的说明，在note-zcm.md中
 
+2017.12.16：这份模型，陈岩已经跑出来了。但陈岩的改动还没有合并进来
+
 
 This repo attempts to reproduce this amazing work by Kaiming He et al. : 
 [Mask R-CNN](https://arxiv.org/abs/1703.06870)
